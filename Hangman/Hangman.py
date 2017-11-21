@@ -98,7 +98,7 @@ HANGMAN = (
 """)
 
 MAX_WRONG = len(HANGMAN) - 1
-WORDS = ("OVERUSED", "CLAM", "SWEET", "SURROUND", "ARMOR", "PYTHON","SCISSOR")
+WORDS =("OVERUSED", "CLAM", "SWEET", "SURROUND", "ARMOR", "PYTHON","SCISSOR","ALTERED","FREDDY","PARACHUTE")
 
 # initialize variables
 word = random.choice(WORDS)   # the word to be guessed
