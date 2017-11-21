@@ -1,6 +1,6 @@
 #include <iostream>
 #include <Windows.h>
-#include<fstream>
+#include <fstream>
 using namespace std;
 
 int Save(int _key, char *file);
