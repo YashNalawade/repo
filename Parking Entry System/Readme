@@ -1,0 +1,1 @@
+A Parking system for vehicles which creates QR code for each vehicle entry and reads QR code at exit using Java libraries (zxing, javase-2.0), MySql Database for storing data.A login page is provided to maneuver the parking system.
